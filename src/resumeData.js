@@ -2,8 +2,8 @@ let resumeData = {
     "imagebaseurl":"https://media.licdn.com/dms/image/C4E03AQETWE405XAKNg/profile-displayphoto-shrink_200_200/0?e=1569456000&v=beta&t=EFME4S6px0v7iZwCr2mKQfYOYC6uGIgUHHytYSpneJE",
     "name": "David Newman",
     "role": "Web Developer",
-    "linkedinId":"Your LinkedIn Id",
-    "roleDescription": " I enjoy dabbling in various parts of frontend development and like to learn about new technologies, or simply play games in my free time.",
+    "email":"davidwnewman91@gmail.com",
+    "roleDescription": "I enjoy dabbling in various parts of frontend and server development, spending time with my family, or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -89,13 +89,15 @@ let resumeData = {
     "portfolio":[
       {
         "name":"A & A Designs",
-        "description":"e-commerce Personal Project",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"e-commerce Personal Project. I had 2.5 weeks to complete this site from scratch, and I am proud of how it turned out.",
+        "imgurl":"images/portfolio/personalSignedIn.jpg",
+        "website":"http://a-and-a-designs.us"
       },
       {
         "name":"Welp",
-        "description":"site for businesses to rate their customers",
-        "imgurl":"images/portfolio/project.jpg"
+        "description":"site for businesses to rate their customers. This was a group project that I was primarily tasked to develop/maintain/pass sessions from start to end.",
+        "imgurl":"images/portfolio/welp.jpg",
+        "website":"http://welp-em.com"
       }
     ],
     "testimonials":[
@@ -103,10 +105,14 @@ let resumeData = {
         "description":"Hey Dave, you're smart...can I borrow your brain?",
         "name":"Mark Nagel"
       },
-      // {
-      //   "description":"This is a sample testimonial",
-      //   "name":"Some technical guy"
-      // }
+      {
+        "description":"You can always count on David to have your back.",
+        "name":"Rachel Meyerchick"
+      },
+      {
+        "description":"Dave is a great team player!",
+        "name":"Kevin Pessetto"
+      }
     ]
   }
   
