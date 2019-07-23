@@ -1,60 +1,68 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://media.licdn.com/dms/image/C4E03AQETWE405XAKNg/profile-displayphoto-shrink_200_200/0?e=1569456000&v=beta&t=EFME4S6px0v7iZwCr2mKQfYOYC6uGIgUHHytYSpneJE",
+    "name": "David Newman",
+    "role": "Web Developer",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I enjoy dabbling in various parts of frontend development and like to learn about new technologies, or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/david-newman-491a9761/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/AutoDave91",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a mentor at DevMountain's Dallas campus. I graduated their Web Development bootcamp in July 2019. I have a wife and daughter that are my core motivation to succeed. I enjoying spending my time off with them and am enjoying watching my daughter grow (she's 7 months old).",
+    "address":"McKinney, TX",
+    "website":"https://davidwnewman.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"DevMountain",
+        "specialization":"Web Development",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2019",
+        "Achievements":"I badged by excelling at the challenges I was given."
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Criswell College",
+        "specialization":"Bachelors in Biblical Studies",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2017",
+        // "Achievements":"Some Achievements"
+      },
+      {
+        "UniversityName":"Collin County Community College",
+        "specialization":"Associate of Arts with Communication field of study",
+        "MonthOfPassing":"December",
+        "YearOfPassing":"2013",
+        // "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Crossroads Cowboy Church",
+        "specialization":"Youth Pastor",
+        "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        // "Achievements":"Some Achievements"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Freedom Health Centers",
+        "specialization":"Front Desk Associate",
+        "MonthOfLeaving":"May",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        // "Achievements":"Some Achievements"
+      },
+      {
+        "CompanyName":"First Baptist Church of McKinney",
+        "specialization":"Family Sports Center Rec Assistant",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2017",
+        // "Achievements":"Some Achievements"
       }
     ],
     "skillsDescription":"Your skills here",
@@ -67,39 +75,38 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Bcrypt"
+      },
+      {
+        "skillname":"PostgreSQL"
+      },
+      {
+        "skillname":"Node.js"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
+        "name":"A & A Designs",
+        "description":"e-commerce Personal Project",
         "imgurl":"images/portfolio/phone.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
+        "name":"Welp",
+        "description":"site for businesses to rate their customers",
         "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Hey Dave, you're smart...can I borrow your brain?",
+        "name":"Mark Nagel"
       },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
+      // {
+      //   "description":"This is a sample testimonial",
+      //   "name":"Some technical guy"
+      // }
     ]
   }
   
