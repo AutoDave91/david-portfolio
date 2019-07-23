@@ -7,11 +7,23 @@
   padding-bottom: 1vh;
   padding-top: 2vh;
 }
+#portfolio{
+  display: flex;
+  justify-content: space-evenly;
+}
+.item-img{
+  height: 50vh;
+  width: 40vw;
+}
 #portfolio-wrapper{
+  display: flex;
+  justify-content: space-evenly;
+}
+#item{
+  width: 50%;
   display: flex;
   justify-content: center;
 }
-.item-img{
-  height: 30vh;
+.item-wrap{
   width: 30vw;
 }
