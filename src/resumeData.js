@@ -16,7 +16,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am currently a mentor at DevMountain's Dallas campus. I graduated their Web Development bootcamp in July 2019. I have a wife and daughter that are my core motivation to succeed. I enjoying spending my time off with them and am enjoying watching my daughter grow (she's 7 months old).",
+    "aboutme":"I am graduating DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I will be starting as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our daughter she expressed she wished to. I have a wife and daughter that are my core motivation to succeed. I enjoying spending my time off with them and am enjoying watching my daughter grow (she's 7 months old).",
     "address":"McKinney, TX",
     "website":"https://davidwnewman.com",
     "education":[
@@ -65,7 +65,7 @@ let resumeData = {
         // "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"These are all skills that I have personal experience both using myself and helping others who where struggling to use these in their code.",
     "skills":[
       {
         "skillname":"HTML5"
@@ -74,30 +74,47 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"React.js"
       },
       {
-        "skillname":"Bcrypt"
+        "skillname":"Bcrypt and bcryptjs"
+      },
+      {
+        "skillname":"Axios"
+      },
+      {
+        "skillname":"react-redux"
+      },
+      {
+        "skillname":"Redux"
+      },
+      {
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"Node.js"
+      },
+      {
+        "skillname":"Massive"
       },
       {
         "skillname":"PostgreSQL"
       },
-      {
-        "skillname":"Node.js"
-      }
     ],
     "portfolio":[
       {
         "name":"A & A Designs",
         "description":"e-commerce Personal Project. I had 2.5 weeks to complete this site from scratch, and I am proud of how it turned out.",
         "imgurl":"images/portfolio/personalSignedIn.jpg",
-        "website":"http://a-and-a-designs.us"
+        "website":"http://104.248.218.254:4050/#/",
+        "repo":"https://github.com/AutoDave91/A-and-A-Designs"
       },
       {
         "name":"Welp",
         "description":"site for businesses to rate their customers. This was a group project that I was primarily tasked to develop/maintain/pass sessions from start to end.",
         "imgurl":"images/portfolio/welp.jpg",
-        "website":"http://welp-em.com"
+        "website":"https://www.welpem.com/#/",
+        "repo":"https://github.com/welpem/welp"
       }
     ],
     "testimonials":[
