@@ -3,6 +3,7 @@ let resumeData = {
     "name": "David Newman",
     "role": "Web Developer",
     "email":"davidwnewman91@gmail.com",
+    phone: '214-733-7594 (if you do not reach me, please leave a message)',
     "roleDescription": "I enjoy dabbling in various parts of frontend and server development, spending time with my family, or simply play games in my free time.",
     "socialLinks":[
         {
@@ -16,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am graduating DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I will be starting as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our daughter she expressed she wished to. I have a wife and daughter that are my core motivation to succeed. I enjoying spending my time off with them and am enjoying watching my daughter grow (she's 7 months old).",
+    "aboutme":"I am graduating DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I will be starting as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our daughter she expressed she wished to. I have a wife and daughter that are my core motivation to succeed. I enjoying spending my time off with them and am enjoying watching my daughter grow (she's 8 months old).",
     "address":"McKinney, TX",
     "website":"https://davidwnewman.com",
     "education":[
@@ -31,15 +32,13 @@ let resumeData = {
         "UniversityName":"Criswell College",
         "specialization":"Bachelors in Biblical Studies",
         "MonthOfPassing":"May",
-        "YearOfPassing":"2017",
-        // "Achievements":"Some Achievements"
+        "YearOfPassing":"2017"
       },
       {
         "UniversityName":"Collin County Community College",
         "specialization":"Associate of Arts with Communication field of study",
         "MonthOfPassing":"December",
-        "YearOfPassing":"2013",
-        // "Achievements":"Some Achievements"
+        "YearOfPassing":"2013"
       }
     ],
     "work":[
@@ -47,22 +46,19 @@ let resumeData = {
         "CompanyName":"Crossroads Cowboy Church",
         "specialization":"Youth Pastor",
         "MonthOfLeaving":"Sep",
-        "YearOfLeaving":"2018",
-        // "Achievements":"Some Achievements"
+        "YearOfLeaving":"2018"
       },
       {
         "CompanyName":"Freedom Health Centers",
         "specialization":"Front Desk Associate",
         "MonthOfLeaving":"May",
-        "YearOfLeaving":"2018",
-        // "Achievements":"Some Achievements"
+        "YearOfLeaving":"2018"
       },
       {
         "CompanyName":"First Baptist Church of McKinney",
         "specialization":"Family Sports Center Rec Assistant",
         "MonthOfLeaving":"Aug",
-        "YearOfLeaving":"2017",
-        // "Achievements":"Some Achievements"
+        "YearOfLeaving":"2017"
       }
     ],
     "skillsDescription":"These are all skills that I have personal experience both using myself and helping others who where struggling to use these in their code.",
