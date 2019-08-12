@@ -105,6 +105,7 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        id: 'a-and-a-designs',
         "name":"A & A Designs",
         "description":"e-commerce Personal Project. I had 2.5 weeks to complete this site from scratch, and I am proud of how it turned out.",
         points:["Personal project built and styled from scratch in 2.5 weeks", "Created an e-commerce site with functional sessions, admin site (including wizard for adding products), and cart", "Integrated Stripe in order to accept payments and NodeMailer in order to allow admins to send newsletters.", "Made fully mobile-responsive in order to capture as many potential customers as possible"],
@@ -113,6 +114,7 @@ let resumeData = {
         "repo":"https://github.com/AutoDave91/A-and-A-Designs"
       },
       {
+        id: 'welp',
         "name":"Welp",
         "description":"site for businesses to rate their customers. This was a group project that I was primarily tasked to develop/maintain/pass sessions from start to end.",
         points: ["Group project built and styled from scratch in 2.5 weeks", "Created a business resource site where businesses can rate customers and warn other businesses of potential threat.", "Personally coded the auth process from registration to logging out and anything referencing the user in-between."],

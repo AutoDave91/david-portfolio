@@ -1,0 +1,15 @@
+@media (max-width: 500px){
+    #portfolio-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+    .item-wrap{
+        width: 100%;
+    }
+    #item{
+        width: 100%;
+    }
+    #welp{
+        width: 100%;
+    }
+}
