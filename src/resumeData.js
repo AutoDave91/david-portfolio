@@ -45,8 +45,8 @@ let resumeData = {
       {
         "CompanyName":"DevMountain",
         "specialization":"Web Development Bootcamp Mentor",
-        // "MonthOfLeaving":"Sep",
-        // "YearOfLeaving":"2018"
+        // "MonthOfLeaving":"Nov",
+        // "YearOfLeaving":"2019"
       },
       {
         "CompanyName":"Crossroads Cowboy Church",
@@ -67,41 +67,29 @@ let resumeData = {
         "YearOfLeaving":"2017"
       }
     ],
-    "skillsDescription":"These are all skills that I have personal experience both using myself and helping others who where struggling to use these in their code.",
+    "skillsDescription":"These are all skills that I have personal experience both using myself and helping others who where struggling to use these in their code. I have also included technologies that I am in the process of learning.",
     "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"React.js"
-      },
-      {
-        "skillname":"Bcrypt and bcryptjs"
-      },
-      {
-        "skillname":"Axios"
-      },
-      {
-        "skillname":"react-redux"
-      },
-      {
-        "skillname":"Redux"
-      },
-      {
-        "skillname":"JavaScript"
-      },
-      {
-        "skillname":"Node.js"
-      },
-      {
-        "skillname":"Massive"
-      },
-      {
-        "skillname":"PostgreSQL"
-      },
+      [
+        "HTML5", 
+        "CSS", 
+        "React.js", 
+        "Bcrypt and bcryptjs", 
+        "Axios", 
+        "react-redux", 
+        "Redux", 
+        "JavaScript", 
+        "Node.js", 
+        "Massive", 
+        "PostgreSQL"
+      ], [
+        'C#',
+        'SASS',
+        // 'Vue',
+        // 'Firebase',
+        // 'Typescript',
+        // 'graphQL',
+        // 'Material UI'
+      ]
     ],
     "portfolio":[
       {
@@ -121,7 +109,16 @@ let resumeData = {
         "imgurl":"images/portfolio/welp.jpg",
         "website":"https://www.welpem.com/#/",
         "repo":"https://github.com/welpem/welp"
-      }
+      },
+      // {
+      //   id: this.name,
+      //   name: 'White Feather Farms',
+      //   description: "Created originally as a challenge to clone and improve on the owner's original site. After succeeding, the owner chose my site for his official website.",
+      //   points: [],
+      //   imgurl: '',
+      //   website: '',
+      //   repo: ''
+      // }
     ],
     "testimonials":[
       {

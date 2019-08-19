@@ -17,22 +17,32 @@ export default  class Resume extends Component {
             {resumeData.skillsDescription}
             </p>
 
-            <div className="bars">
-
-              <ul className="skills">
+            <section className="skills">
+              <ul className="known-skills">
+                <li className='skills-titles'>Known</li>
                 {
-                  resumeData.skills && resumeData.skills.map((item) => {
+                  resumeData.skills && resumeData.skills[0].map((item) => {
                     return(
                       <li>
-                      {item.skillname}
+                      {item}
                       </li>
                     )
                   })
                 }
-
               </ul>
-
-            </div>
+              <ul className="learning-skills">
+                <li className='skills-titles'>Learning</li>
+                {
+                  resumeData.skills && resumeData.skills[1].map((item) => {
+                    return(
+                      <li>
+                      {item}
+                      </li>
+                    )
+                  })
+                }
+              </ul>
+            </section>
 
           </div>
 

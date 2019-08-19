@@ -27,8 +27,14 @@
   flex-direction: column;
   align-items: center;
 }
-.links{
-}
 .item-wrap{
   width: 30vw;
+}
+.skills{
+  display: flex;
+  justify-content: space-between;
+}
+.skills-titles{
+  font-size: 4vh;
+  padding-bottom: 3vh;
 }
