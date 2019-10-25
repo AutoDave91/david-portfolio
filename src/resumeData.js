@@ -3,7 +3,7 @@ let resumeData = {
     "name": "David Newman",
     "role": "Web Developer",
     "email":"davidwnewman91@gmail.com",
-    phone: '214-733-7594 (if you do not reach me, please leave a message)',
+    phone: '214-733-7594 (please leave a message)',
     "roleDescription": "I enjoy dabbling in various parts of frontend and server development, spending time with my family, or simply play games in my free time.",
     "socialLinks":[
         {
