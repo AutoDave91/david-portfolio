@@ -84,7 +84,8 @@ let resumeData = {
       ], [
         'C#',
         'SASS',
-        'Wordpress'
+        'Wordpress',
+        'Angular'
         // 'Vue',
         // 'Firebase',
         // 'Typescript',
@@ -133,6 +134,18 @@ let resumeData = {
       {
         "description":"Dave is a great team player!",
         "name":"Kevin Pessetto"
+      },
+      {
+        "description":"Immediately, myself and the other instructors could see that not only was David a naturally gifted programmer, but he had a drive that had him constantly pushing himself to improve. That intensity didn't hold him back from being one of the most thoughtful individual's I've had the pleasure of meeting.",
+        "name":"Harry Heckmann"
+      },
+      {
+        "description":"David is an avid learner and helps those around them with anything that they are struggling on as well. When someone is frustrated, tense, or placed in a high stress situation, David remains completely calm, collected, and focused on the path that will lead him and his team to success.",
+        "name":"Mykenzie Rogers"
+      },
+      {
+        "description":"David and I worked alongside each other as Mentors at DevMountain. He was always passionate about helping others and was a wonderful teammate. He is one of those people that brightens up a room when he walks in. I am confident that David can succeed at anything thrown his way.",
+        "name":"Eric Sellers"
       }
     ]
   }
