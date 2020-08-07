@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I graduated DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I started as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our daughter she expressed she wished to. I have a wife and daughter that are my core motivation to succeed. I enjoying spending my time off with them and am enjoying watching my daughter grow.",
+    "aboutme":"I graduated DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I started as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our daughter she expressed she wished to. I have a wife, daughter, and soon to be son that are my core motivation to succeed. I enjoying spending my time off with them as well as on the lake with my kayak.",
     "address":"McKinney, TX",
     "website":"https://davidwnewman.com",
     "education":[
@@ -90,7 +90,8 @@ let resumeData = {
         // 'Firebase',
         // 'Typescript',
         // 'graphQL',
-        // 'Material UI'
+        // 'Material UI',
+        // 'Style Components'
       ]
     ],
     "portfolio":[
@@ -112,6 +113,15 @@ let resumeData = {
         "website":"https://www.welpem.com/#/",
         "repo":"https://github.com/welpem/welp"
       },
+      {
+        id:'partyTracker',
+        name: 'Party Tracker',
+        description: 'site to enable easy virtual tracking of party initiative and stats. This is a project I have played with for awhile, but am finally ready to share it.',
+        points: ['Built and styled myself to fill a need I saw in my own games.', 'Created a gamer resource for virtual gameplay of D&D and games similar.'],
+        imgurl: 'images/portfolio/partyTracker.jpg',
+        website: '',
+        repo: 'https://github.com/AutoDave91/dnd-party-tracker'
+      }
       // {
       //   id: this.name,
       //   name: 'White Feather Farms',
