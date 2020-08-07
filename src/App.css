@@ -10,12 +10,8 @@
 #portfolio{
   display: flex;
   justify-content: space-evenly;
-  flex-wrap: wrap;
 }
-#a-and-a-designs{
-  height: 50vh;
-}
-#welp{
+#a-and-a-designs, #welp, #partyTracker{
   height: 50vh;
 }
 #portfolio-wrapper{
@@ -23,7 +19,7 @@
   justify-content: space-evenly;
 }
 #item{
-  width: 50%;
+  width: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
