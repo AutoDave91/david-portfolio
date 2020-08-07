@@ -90,7 +90,8 @@ let resumeData = {
         // 'Firebase',
         // 'Typescript',
         // 'graphQL',
-        // 'Material UI'
+        // 'Material UI',
+        // 'Style Components'
       ]
     ],
     "portfolio":[
@@ -112,6 +113,15 @@ let resumeData = {
         "website":"https://www.welpem.com/#/",
         "repo":"https://github.com/welpem/welp"
       },
+      {
+        id:'partyTracker',
+        name: 'Party Tracker',
+        description: 'site to enable easy virtual tracking of party initiative and stats. This is a project I have played with for awhile, but am finally ready to share it.',
+        points: ['Built and styled myself to fill a need I saw in my own games.', 'Created a gamer resource for virtual gameplay of D&D and games similar.'],
+        imgurl: 'images/portfolio/partyTracker.jpg',
+        website: '',
+        repo: 'https://github.com/AutoDave91/dnd-party-tracker'
+      }
       // {
       //   id: this.name,
       //   name: 'White Feather Farms',
