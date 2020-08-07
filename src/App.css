@@ -10,6 +10,7 @@
 #portfolio{
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 #a-and-a-designs{
   height: 50vh;
