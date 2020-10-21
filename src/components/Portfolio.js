@@ -30,7 +30,7 @@ export default class Porfolio extends Component {
                   </div>
                   <section className='links'>
                   </section>
-                    {/* <p><a href={item.website} target="_blank" rel='noopener noreferrer'>Visit the site!</a></p> */}
+                    <p><a href={item.website} target="_blank" rel='noopener noreferrer'>Visit the site!</a></p>
                     <p><a href={item.repo} target="_blank" rel='noopener noreferrer'>Check the Github!</a></p>
                 </div>
               )
