@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://media.licdn.com/dms/image/C4E03AQETWE405XAKNg/profile-displayphoto-shrink_200_200/0?e=1569456000&v=beta&t=EFME4S6px0v7iZwCr2mKQfYOYC6uGIgUHHytYSpneJE",
     "name": "David Newman",
-    "role": "Web Developer",
+    "role": "Husband | Father | Web Developer",
     "email":"davidwnewman91@gmail.com",
     phone: '214-733-7594 (leave a vmail)',
     "roleDescription": "I enjoy dabbling in various parts of frontend and server development, spending time with my family, or simply play games in my free time.",
@@ -17,8 +17,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I graduated DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I started as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our daughter she expressed she wished to. I have a wife, daughter, and soon to be son that are my core motivation to succeed. I enjoying spending my time off with them as well as on the lake with my kayak.",
-    "address":"McKinney, TX",
+    "aboutme":"I graduated DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I started as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our children she expressed she wished to. In October of 2020 I had the opportunity to join the FarsideDev team as a part time developer.",
+    "address":"Melissa, TX",
     "website":"https://davidwnewman.com",
     "education":[
       {
@@ -42,6 +42,12 @@ let resumeData = {
       }
     ],
     "work":[
+      {
+        "CompanyName":"FarsideDev",
+        "specialization":"Lead Web Developer"
+        // "MonthOfLeaving":"Oct",
+        // "YearOfLeaving":"2021"
+      },
       {
         "CompanyName":"DevMountain",
         "specialization":"Web Development Bootcamp Mentor",
@@ -80,11 +86,14 @@ let resumeData = {
         "JavaScript", 
         "Node.js", 
         "Massive", 
-        "PostgreSQL"
+        "PostgreSQL",
+        'Wordpress',
+        'SEO (basic)',
+        'Jquiry',
+        'Webflow'
       ], [
         'C#',
         'SASS',
-        'Wordpress',
         'Angular'
         // 'Vue',
         // 'Firebase',
@@ -110,7 +119,7 @@ let resumeData = {
         "description":"site for businesses to rate their customers. This was a group project that I was primarily tasked to develop/maintain/pass sessions from start to end.",
         points: ["Group project built and styled from scratch in 2.5 weeks", "Created a business resource site where businesses can rate customers and warn other businesses of potential threat.", "Personally coded the auth process from registration to logging out and anything referencing the user in-between."],
         "imgurl":"images/portfolio/welp.jpg",
-        "website":"https://www.welpem.com/#/",
+        "website":"https://www.davidwnewman.com",
         "repo":"https://github.com/welpem/welp"
       },
       {
@@ -119,7 +128,7 @@ let resumeData = {
         description: 'site to enable easy virtual tracking of party initiative and stats. This is a project I have played with for awhile, but am finally ready to share it.',
         points: ['Built and styled myself to fill a need I saw in my own games.', 'Created a gamer resource for virtual gameplay of D&D and games similar.'],
         imgurl: 'images/portfolio/partyTracker.jpg',
-        website: 'https://www.partytracker.site',
+        website: 'https://www.davidwnewman.com',
         repo: 'https://github.com/AutoDave91/dnd-party-tracker'
       }
       // {
