@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I graduated DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I started as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our children she expressed she wished to. In October of 2020 I had the opportunity to join the FarsideDev team as a part time developer.",
+    "aboutme":"I graduated DevMountain's Web Development bootcamp July 26th 2019. On August 5th 2019 I started as one of two Dallas campus mentors for their web development cohort that is beginning at that date. I decided to pursue a training in this career field because I have always enjoyed problem solving and I wanted to be able to support my family to allow my wife to work less so she could have reduced stress and get to spend the time with our children she expressed she wished to. In October of 2020 I had the opportunity to join the FarsideDev team as a part time developer. I quickly became a full time developer and after about a year with the company was given the title Lead Developer and given some additional roles in the company involving working from start to finish with the small business clients.",
     "address":"Melissa, TX",
     "website":"https://davidwnewman.com",
     "education":[
@@ -45,8 +45,8 @@ let resumeData = {
       {
         "CompanyName":"FarsideDev",
         "specialization":"Lead Web Developer"
-        // "MonthOfLeaving":"Oct",
-        // "YearOfLeaving":"2021"
+        // "MonthOfLeaving":"April",
+        // "YearOfLeaving":"2022"
       },
       {
         "CompanyName":"DevMountain",
@@ -90,7 +90,9 @@ let resumeData = {
         'Wordpress',
         'SEO (basic)',
         'Jquiry',
-        'Webflow'
+        'Webflow',
+        'Gatsby',
+        'graphQL'
       ], [
         'C#',
         'SASS',
